@@ -1,0 +1,4 @@
+Ini adalah sebuah Branch pertama
+- menjelaskan bagaimana cara bekerja branch
+  * bla bla bla, contoh penambahan dimana saja 
+- mencoba mencommit branch
