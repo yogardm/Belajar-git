@@ -1,0 +1,3 @@
+Alasan belajar GIT
+- untuk kebutuhan project
+- mengetahui VCS
