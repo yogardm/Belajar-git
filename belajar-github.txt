@@ -2,4 +2,4 @@ Alasan belajar GIT
 - untuk kebutuhan project
 - mengetahui VCS
 - kebutuhan project
-- menambah ilmu anjay...
+- mencapai target belajar
